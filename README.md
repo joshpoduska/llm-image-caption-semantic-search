@@ -4,7 +4,7 @@
 
 ## Tech leveraged: Pinecone, Hugging Face, Salesforce BLIP, Google Photos API
 
-***Pinecone*** vector database for embedding storage and search
+***Pinecone*** vector database for embedding storage and search 
 
 ***Hugging Face*** models and pipelines
 
