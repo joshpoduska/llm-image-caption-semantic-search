@@ -1,7 +1,8 @@
 # Semantic search of your personal cloud photos and videos
+
 ### An LLM-based generative AI app that uses:
 
-#### **Pinecone** vector database for embedding storage and search
+#### ***Pinecone*** vector database for embedding storage and search
 
 #### **Hugging Face** models and pipelines
 
