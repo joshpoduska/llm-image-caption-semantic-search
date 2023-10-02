@@ -6,6 +6,7 @@
 
 <img src="read_me_img/markus-winkler-afW1hht0NSs-unsplash.jpg" alt="drawing" width="350"/>
 
+### Open the [notebook](photo_embeddings.ipynb) for instructions on how to recreate semantic photo search on your laptop (maybe I'll get around to putting this in Streamlit at some point)
 
 ***Pinecone*** vector database for embedding storage and search 
 
