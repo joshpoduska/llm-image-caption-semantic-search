@@ -18,7 +18,7 @@
 
 ***Google API*** to access your personal Google Photos to perform a semantic search to find "that one photo"
 
-Tested locally on a ***MacBook Pro***, Apple M1 Pro with 16 GPU Cores and 32GB mem
+Tested locally on a ***MacBook Pro***
 
 
 
