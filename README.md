@@ -4,7 +4,7 @@
 
 ## Tech leveraged: Pinecone, Hugging Face, OpenAI CLIP, Google Photos API
 
-<img src="read_me_img/app-overview.png." alt="drawing" width="350"/>
+<img src="read_me_img/app-overview.png" alt="drawing" width="350"/>
 
 ### Open the [notebook](photo_embeddings_clip.ipynb) for instructions on how to recreate semantic photo search on your laptop
 
