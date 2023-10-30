@@ -12,7 +12,7 @@
 
 ***Hugging Face*** models and pipelines
 
-- ***OpenAI CLIP*** model for image and query text embedding creation
+***OpenAI CLIP*** model for image and query text embedding creation
 
 ***Google API*** to access your personal Google Photos to perform a semantic search to find "that one photo"
 
