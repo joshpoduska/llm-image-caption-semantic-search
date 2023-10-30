@@ -2,19 +2,17 @@
 
 ## An LLM-based generative AI app
 
-## Tech leveraged: Pinecone, Hugging Face, Salesforce BLIP, Google Photos API
+## Tech leveraged: Pinecone, Hugging Face, OpenAI CLIP, Google Photos API
 
 <img src="read_me_img/markus-winkler-afW1hht0NSs-unsplash.jpg" alt="drawing" width="350"/>
 
-### Open the [notebook](photo_embeddings.ipynb) for instructions on how to recreate semantic photo search on your laptop (maybe I'll get around to putting this in Streamlit at some point)
+### Open the [notebook](photo_embeddings_clip.ipynb) for instructions on how to recreate semantic photo search on your laptop
 
 ***Pinecone*** vector database for embedding storage and search 
 
 ***Hugging Face*** models and pipelines
 
-- ***salesforce_blip_image_captioning*** model for caption generation
-
-- ***sentence_transformers (SBERT)*** for embedding creation
+- ***OpenAI CLIP*** model for image and query text embedding creation
 
 ***Google API*** to access your personal Google Photos to perform a semantic search to find "that one photo"
 
